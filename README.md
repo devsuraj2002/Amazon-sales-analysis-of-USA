@@ -7,25 +7,27 @@ This project provides a detailed analysis of Amazon sales performance across dif
 
 
 # Tech Stack
-Power BI – For interactive dashboards and data visualization
-Excel – For raw data storage and preprocessing
-Data Manipulation – For cleaning, transforming, and preparing data before visualization
+• Power BI – For interactive dashboards and data visualization
+• Excel – For raw data storage and preprocessing
+• Data Manipulation – For cleaning, transforming, and preparing data before visualization
 
 # Features
-Interactive dashboard with sales and profit insights
-Sales trend analysis over multiple years
-Category-wise sales breakdown using tree map
-State-wise profit distribution
-KPI cards for Orders, Quantity, Profit, and Sales
-Gauge chart for overall sales performance
+• Interactive dashboard with sales and profit insights
+• Sales trend analysis over multiple years
+• Category-wise sales breakdown using tree map
+• State-wise profit distribution
+• KPI cards for Orders, Quantity, Profit, and Sales
+• Gauge chart for overall sales performance
 
 # Highlights
-Total Orders: 1611
-Total Quantity Sold: 12K
-Total Sales: 725.46K
-Total Profit: 108.42K
-Top Categories: Chairs (101.78K), Phones (98.68K), Tables (84.75K)
-Highest Profit State: California (76K)
+• Total Orders: 1611 
+• Total Quantity Sold: 12K 
+• Total Sales: 725.46K 
+• Total Profit: 108.42K 
+• Top Categories: Chairs (101.78K), Phones (98.68K), Tables (84.75K) 
+• Highest Profit State: California (76K)
+
+
 
 
 
